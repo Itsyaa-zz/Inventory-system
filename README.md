@@ -1,6 +1,8 @@
 # Inventory-system
 A full-stack Inventory Management System built using React, PHP, MySQL, and JWT for efficient stock and user management.
 
+UNZIP THE FILE AND FOLLOW THIS STEPS:
+
 # 📦 InvenTrack Pro — Inventory Management System
 ### Capstone Project | Full-Stack Web Application
 
